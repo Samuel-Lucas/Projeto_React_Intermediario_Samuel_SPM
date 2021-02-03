@@ -27,6 +27,8 @@ function Bloco(props) {
             <hr/>
 
             <h4 className="text-center mt-3">Resultados</h4>
+            <h6 className="text-center">Primeiro número [Operação] Segundo número</h6>
+         
 
             <div className="container d-flex flex-column align-items-center justify-content-around resultados">
                 <Soma />
